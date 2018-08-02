@@ -10,3 +10,4 @@
 ### ContributesAndroidInjector
 - This annotation is good but androidx.fragment.app.Fragment was not supported.
 - Use Binds and IntoMap.
+- See [app source](https://github.com/flight95/dagger-androidx-ktx/tree/master/app). It will be best practice for you.
