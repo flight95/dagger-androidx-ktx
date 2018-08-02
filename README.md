@@ -7,4 +7,6 @@
 - androidx.fragment.app.Fragment
 - androidx.appcompat.app.AppCompatDialogFragment
 
-### ContributesAndroidInjector is good but androidx.fragment.app.Fragment was not supported. Use Binds and IntoMap.
+### ContributesAndroidInjector
+- This annotation is good but androidx.fragment.app.Fragment was not supported.
+- Use Binds and IntoMap.
