@@ -10,8 +10,12 @@ android {
         minSdkVersion 23
         targetSdkVersion 28
         versionCode 1
-        versionName "1.0.0.0"
+        versionName "1.0.0.1"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
     }
     buildTypes {
         release {
@@ -26,7 +30,7 @@ android {
 
 dependencies {
     implementation project(path: ':ktx')
-    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.2.50"
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.2.60"
 
     implementation "androidx.appcompat:appcompat:1.0.0-beta01"
     implementation 'androidx.legacy:legacy-support-v4:1.0.0-beta01'
