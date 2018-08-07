@@ -1,4 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Language: Kotlin](https://img.shields.io/badge/Language-Kotlin-547ab7.svg)](https://kotlinlang.org/)
 
 # dagger-androidx-ktx
 
