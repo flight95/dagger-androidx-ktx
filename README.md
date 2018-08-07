@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # dagger-androidx-ktx
 
 ### It is temporary library for [dagger.android.support](https://github.com/google/dagger/tree/master/java/dagger/android/support)
